@@ -371,6 +371,10 @@ iframe {
   .home-content {
     margin-top: 20%;
   }
+  .home-content .logo {
+    width: 200px;
+    margin-bottom: 40px;
+  }
 
   /* ニュース */
   .news-contents {
